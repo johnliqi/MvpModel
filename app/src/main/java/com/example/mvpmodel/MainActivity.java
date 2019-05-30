@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.annotation.NonNull;
 import android.view.MenuItem;
 import android.widget.TextView;
-//Dev/app 合并分支
+//Dev/app 合并分支 0000
 public class MainActivity extends AppCompatActivity {
     private TextView mTextMessage;
 
